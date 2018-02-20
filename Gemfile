@@ -1,4 +1,3 @@
-
 source 'https://rubygems.org'
 
 gem 'rake'
@@ -11,7 +10,7 @@ gem 'poltergeist-suppressor'
 gem 'docker-api', require: 'docker'
 gem 'minitar-cli'
 gem 'minitar'
-$gem 'archive-tar-minitar'
+# gem 'archive-tar-minitar'
 gem 'rspec_junit_formatter'
 
 gem 'pry'
