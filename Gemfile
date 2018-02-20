@@ -9,7 +9,9 @@ gem 'poltergeist'
 gem 'poltergeist-suppressor'
 
 gem 'docker-api', require: 'docker'
-gem 'archive-tar-minitar'
+gem 'minitar-cli'
+gem 'minitar'
+$gem 'archive-tar-minitar'
 gem 'rspec_junit_formatter'
 
 gem 'pry'
