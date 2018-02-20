@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
 # Prepare Git committer information
-git config --global user.email "circleci@circleci"
-git config --global user.name "Circle CI Automated Builder"
+git config --global user.email "radmanesh@gmail.com"
+git config --global user.name "Arman Radmanesh"
 
 # Obtain the currently latest version of Atlassian JIRA version defined by the
 # Dockerfile in this repository.
